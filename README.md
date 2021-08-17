@@ -1,2 +1,2 @@
-# apariencia_de_citio
+# apariencia_de_Sitio
 el uso de plantillas
